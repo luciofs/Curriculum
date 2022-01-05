@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(204, 127, 127);
+    max-width: 1300px;
+    margin: auto;
+}
+
+.foto1 {
+    float: left;
+    border-radius: 50%;
+    border: transparent thin solid;
+    padding: 0px;
+    margin: 5px 5px;
+    max-width: 320px;
+}
+
+.foto2 {
+    margin: 0px 30px;
+}
+
+.post_title {
+    background: rgb(212, 210, 208);
+    margin: 50px 50px 50px 100px;
+    padding: 10px 10px 5px 10px;
+    
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+#title, .subtitle {
+    color: white;
+    margin: 30px;
+}
+
+.subtitle {
+    font-size: 30px;
+    font-style: inherit italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+}
+.list1{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50px;
+}
+
+.list2{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 50px;
+}
+
+.redes{
+    margin-left: 50px;
+}
